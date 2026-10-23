@@ -1,16 +1,25 @@
-## Hi there 👋
+### I'm dapotatopack 👋
 
-<!--
-**dapotatopack/dapotatopack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build web UIs with React, Next.js, and TypeScript — mostly component libraries, dashboards, and anything that needs to feel snappy. I spend a lot of time thinking about design systems and making sure things work well for everyone, not just people with a mouse and a fast connection. TailwindCSS and Vite are my daily drivers; I like tools that stay out of the way.
 
-Here are some ideas to get you started:
+<details>
+<summary><b>A little about me</b></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Building a lightweight accessible component library with React and Vite.
+- usually building small tools nobody asked for
+- happy to pair on open-source stuff
+- happier in a terminal than in an IDE
+- keeps notes about accessible UI that will never be published
+
+<p align="center">
+  <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=dapotatopack&hide_border=true&theme=react-dark" alt="Contribution graph" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=dapotatopack&hide_border=true&theme=dracula" alt="Commit streak" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vite-e3b341?style=for-the-badge&logoColor=white" alt="Vite" /> <img src="https://img.shields.io/badge/React-e3b341?style=for-the-badge&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-e3b341?style=for-the-badge&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/TailwindCSS-e3b341?style=for-the-badge&logoColor=white" alt="TailwindCSS" />
+</p>
+
+</details>
+
+<sub>Still learning, still shipping.</sub>
